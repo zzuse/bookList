@@ -23,3 +23,41 @@
    3. NETWORK
    4. LEARN GO
    5. LEARN MacTips
+
+##safari unreadings  
+   1. http://ohmyz.sh
+   2. http://computers.tutsplus.com/tutorials/alfred-workflows-for-beginners--mac-55446
+   3. http://bbs.feng.com/read-htm-tid-6398178.html
+   4. http://www.alfredworkflow.com
+   5. https://developer.apple.com/library/mac/documentation/MacOSX/Conceptual/BPFrameworks/Tasks/CreatingFrameworks.html
+   6. https://developer.apple.com/library/mac/documentation/DeveloperTools/Conceptual/DynamicLibraries/100-Articles/OverviewOfDynamicLibraries.html
+   7. http://blog.csdn.net/fulinwsuafcie/article/details/6821889
+   8. http://mp.weixin.qq.com/s?__biz=MzA3NDM0ODQwMw==&mid=206041450&idx=1&sn=3982c8cc45d7c47f0fbc19fe8371490f&scene=4#wechat_redirect
+   9. http://haoduoshipin.com/all
+   10. http://www.i-programmer.info/programming/other-languages/6600-a-programmers-guide-to-go-with-liteide-part-1.html
+   11. http://blog.marchtea.com/archives/212
+   12. http://guides.rubyonrails.org/getting_started.html
+   13. https://www.ruby-lang.org/en/documentation/
+   14. http://blog.csdn.net/houzengjiang/article/details/7718548
+   15. http://squeak.org
+   16. https://scratch.mit.edu
+   17. https://github.com/maxogden/art-of-node/#the-art-of-node
+   18. http://javascriptissexy.com/learn-node-js-completely-and-with-confidence/
+   19. http://dirlt.com
+   20. https://dotfiles.github.io
+   21. http://cb.vu/unixtoolbox.xhtml
+   22. https://linux.cn/article-2532-1.html
+   23. http://blog.csdn.net/robertsong2004/article/details/37740661
+   24. http://www.ouah.org/RevEng/
+   25. http://blog.chinaunix.net/uid-23586647-id-101158.html
+   26. http://www.codeguru.com/cpp/cpp/cpp_mfc/stl/article.php/c4079/Allocators-STL.htm
+   27. https://gobyexample.com/hello-world
+   28. http://duanple.blog.163.com/blog/static/7097176720120391321283/
+   29. http://duanple.blog.163.com/blog/static/7097176720123202219903/
+   30. http://duanple.blog.163.com/blog/static/7097176720123202125771/
+   31. http://duanple.blog.163.com/blog/static/70971767201171705113636/
+   32. http://www.newthinktank.com/2015/02/ruby-programming-tutorial/
+   33. http://duanple.blog.163.com/blog/static/7097176720123227403134/
+   34. http://azul3d.org/doc/faq.html#why-opengl-2
+   35. http://threejs.org/editor/
+   36. http://www.oschina.net/p/abtestinggateway?fromerr=qiPv2SOc
