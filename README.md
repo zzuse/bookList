@@ -154,3 +154,28 @@
    4. 购物车：改变未来的九大算法
    5. 购物车：程序员的思维修炼
    6. 购物车：C++反汇编与逆向分析技术揭秘
+
+##影像资料
+### Mostly on iPhone
+   1. Advanced CPP 1-14
+   2. Design Patterns 1-2
+   3. Software Exception
+   4. git and gerrit
+   5. git introduction
+   6. Memory in Programming
+   7. OO 1-4
+   8. Secure Programming
+   9. Software Performance Tuning
+   10. Expert Level Vim
+   11. An Brief Introduction to LISP
+   12. More instantly better VIM
+   13. Introduction to Ruby
+   14. Replicated LevelDB in JBoss Fuse
+   15. LevelDB 2014 Meetup
+   16. Memory Leaks and Profilling to Tune Nodejs
+   17. Node.js Tutorials
+   18. Optimising LevelDB for performance and scale
+   19. A real datebase rethink nodejs and leveldb
+   20. Node.js optimization
+   21. vim+tmux
+   22. coder howto
