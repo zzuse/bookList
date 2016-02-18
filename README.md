@@ -101,3 +101,38 @@
    2. LevelDB SSTable 格式详解
    3. 图解TCP/IP
    4. 运维与Beats
+
+##Kindle
+###iPad  
+   1. Learning Three.js
+   2. Learning Boost C++ Libraries
+   3. Nodejs By Example
+   4. Boost C++ Application Development Cookbook
+   5. Arch Linux Environment Setup How-To
+   6. Nature and Human Nature
+   7. Go Programming Blueprints
+   8. Node.js Design Patterns
+   9. HBase Design Patterns
+   10. Building Scalable Apps with Redis and Node.js
+   11. An Introduction to Functional Programming Through Lambda Calculus
+   12. Dynamic Programming:Models and Applications
+   13. Don't Fear the Spreadsheet:A Begginer's Guide to Overcoming Excel's Frustrations
+   14. The Geek Gap:Why Business And Technology Professionals Don't Understand Each Other
+   15. 中国顶尖技术团队访谈录
+   16. Every Man in His Humor
+###iPhone
+   1. Spin
+   2. A Deepness in the Sky
+   3. To Say Nothing of the Dog
+   4. A Fire Upon The Deep
+   5. The Doomsday Book
+   6. The Uplift War
+   7. The Left Hand of Darkness
+   8. Dune
+   9. Stranger in a Strange Land
+   10. Fahrenheit 451
+   11. The Forever War
+   12. 光明王
+   13. 海伯利安四部曲
+   14. 神经漫游者
+   15. 发条女孩
