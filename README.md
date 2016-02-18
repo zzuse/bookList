@@ -61,3 +61,43 @@
    34. http://azul3d.org/doc/faq.html#why-opengl-2
    35. http://threejs.org/editor/
    36. http://www.oschina.net/p/abtestinggateway?fromerr=qiPv2SOc
+
+##iBooks
+###iPad  
+   1. 数学之美
+   2. BusinessChinese
+   3. 丹青
+   4. The Log Structured Merge Tree
+   5. 成为技术领导者
+   6. 学习Go语言
+   7. nodejs-wiki-book
+   8. network programming with go
+   9. learning go
+   10. google cpp style guide CN
+   11. Gobootcamp
+   12. go
+   13. Essential C
+   14. 编译原理和技术
+   15. building webapps with go
+   16. gobook
+   17. 31daysRefactoring
+   18. 多线程编程技术
+   19. zshguide
+   20. GDB Debug method
+   21. gcc makefile
+   22. HeadFirst 设计模式
+   23. Extraction of geometrical
+   24. Design Patterns
+   25. rfc0959
+   26. 历史是个什么玩意儿  
+   27. MySql物理组成
+   28. MSG Design
+   29. 高质量C++编程指南
+   30. Coding Standard
+   31. 双城记
+
+###iPhone
+   1. JavaScirpt the Good Parts
+   2. LevelDB SSTable 格式详解
+   3. 图解TCP/IP
+   4. 运维与Beats
