@@ -19,18 +19,22 @@
    
 ###account foreign:
 
-   4. LEARN GO
-   5. LEARN MacTips
-   * vim 宏的录制和使用
-   * wireshark抓包
-   * mac卸载pkg
-   * nrrd file format
-   * git永久删除文件
-   *  osx 9个常用命令
-   * markdown语法
-   * alfred 工作流入门
-
-
+   4. LEARN GO:
+       * 50 个 Go 开发者常犯的错误
+       * Go -简洁的并发
+       * Debugging Go Code with GDB
+       * Setting up and using gccgo
+       * Installing Go from source
+   
+   5. LEARN MacTips:
+      * vim 宏的录制和使用
+      * wireshark抓包
+      * mac卸载pkg
+      * nrrd file format
+      * git永久删除文件
+      *  osx 9个常用命令
+      * markdown语法
+      * alfred 工作流入门
 
 ##safari unreadings  
    1. http://ohmyz.sh
