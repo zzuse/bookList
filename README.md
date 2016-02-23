@@ -9,7 +9,7 @@
    4. http://www.alfredworkflow.com
    5. https://developer.apple.com/library/mac/documentation/MacOSX/Conceptual/BPFrameworks/Tasks/CreatingFrameworks.html
    6. https://developer.apple.com/library/mac/documentation/DeveloperTools/Conceptual/DynamicLibraries/100-Articles/OverviewOfDynamicLibraries.html
-   7. http://blog.csdn.net/fulinwsuafcie/article/details/6821889
+   7. [字符编码问题](http://blog.csdn.net/fulinwsuafcie/article/details/6821889)
    8. [程序员效率指南](http://mp.weixin.qq.com/s?__biz=MzA3NDM0ODQwMw==&mid=206041450&idx=1&sn=3982c8cc45d7c47f0fbc19fe8371490f&scene=4#wechat_redirect)
    9. http://haoduoshipin.com/all
    10. http://www.i-programmer.info/programming/other-languages/6600-a-programmers-guide-to-go-with-liteide-part-1.html
