@@ -42,9 +42,8 @@
 
 ##iBooks
 ###iPad  
-   1. 数学之美
-   2. BusinessChinese
-   3. 丹青
+   1. ~~数学之美~~
+   2. ~~BusinessChinese~~
    4. The Log Structured Merge Tree
    5. 成为技术领导者
    6. 学习Go语言
@@ -59,28 +58,25 @@
    15. building webapps with go
    16. gobook
    17. 31daysRefactoring
-   18. 多线程编程技术
-   19. zshguide
+   18. ~~多线程编程技术~~
+   19. ~~zshguide~~
    20. GDB Debug method
    21. gcc makefile
    22. HeadFirst 设计模式
    23. Extraction of geometrical
    24. Design Patterns
-   25. rfc0959
-   26. 历史是个什么玩意儿  
-   27. MySql物理组成
-   28. MSG Design
+   25. ~~rfc0959 FTP~~
+   27. ~~MySql物理组成~~
+   28. ~~MSG Design~~
    29. 高质量C++编程指南
    30. Coding Standard
-   31. 双城记
 
 ###iPhone
    1. JavaScirpt the Good Parts
    2. LevelDB SSTable 格式详解
    3. 图解TCP/IP
-   4. 运维与Beats
 
-##Kindle
+##Kindle (all the book is not first order)
 ###iPad  
    1. Learning Three.js
    2. Learning Boost C++ Libraries
@@ -117,43 +113,41 @@
    15. 发条女孩
 
 ##豆瓣阅读
-   1. 小说故事
-   2. 失控
+   2. ~~失控~~
    3. 深度探索Linux操作系统
-   4. 菊与刀
-   5. 知乎 你在怕甚
+   4. ~~菊与刀~~
    6. 大规模分布式存储系统：原理解析与架构实战
    7. 购物车：图解HTTP
    
 ##多看阅读
-   1. MacTalk人生元编程
-   2. 三体
+   1. ~~MacTalk人生元编程~~
+   2. ~~三体~~
    3. 购物车：高效程序员45个习惯
-   4. 购物车：改变未来的九大算法
+   4. ~~购物车：改变未来的九大算法~~
    5. 购物车：程序员的思维修炼
-   6. 购物车：C++反汇编与逆向分析技术揭秘
+   6. ~~购物车：C++反汇编与逆向分析技术揭秘~~
 
 ##影像资料
 ### Mostly on iPhone
    1. Advanced CPP 1-14
    2. Design Patterns 1-2
    3. Software Exception
-   4. git and gerrit
-   5. git introduction
+   4. ~~git and gerrit~~
+   5. ~~git introduction~~
    6. Memory in Programming
    7. OO 1-4
    8. Secure Programming
    9. Software Performance Tuning
    10. Expert Level Vim
-   11. An Brief Introduction to LISP
+   11. ~~An Brief Introduction to LISP~~
    12. More instantly better VIM
-   13. Introduction to Ruby
-   14. Replicated LevelDB in JBoss Fuse
+   13. ~~Introduction to Ruby~~
+   14. ~~Replicated LevelDB in JBoss Fuse~~
    15. LevelDB 2014 Meetup
    16. Memory Leaks and Profilling to Tune Nodejs
    17. Node.js Tutorials
    18. Optimising LevelDB for performance and scale
    19. A real datebase rethink nodejs and leveldb
    20. Node.js optimization
-   21. vim+tmux
-   22. coder howto
+   21. ~~vim+tmux~~
+   22. ~~coder howto~~
