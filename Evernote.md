@@ -2,45 +2,45 @@
 ###account local:
 
    1. Network
-      * php5.4启动
       * nginx启动
       * nginx安装
       * socat
       * care using wireshark
-      * chrome强制http 重定向https
+      * chrome强制http重定向https
       * read Gmail from command line
-      * tshark
-      * mss https代理
-      * vpn+ssh
+      * tshark manpage
+      * Lynx and links
+      * https穿透内网
+      * SSHVPN
    2. TODO
-      * uml反向工程分析linux架构
-      * Abrash《zen of graphics programming》《zen of code optimization》
       * techTask
    3. GO
       * Using Go code in an existing C project
       * Go1.5 新特性
       * Go语言开源库一览
    4. Tuning
+      * gdb
+         * How to GDB STL Container
+         * some info for vSDM core
+         * thread apply all bt
+         * gdb vtable
+         * gdbplus
+         * gdb stack
+         * gdb print address
+         * gdb output formats
       * valgrind
       * oprofile usage on plat
       * cppcheck tool
       * dupliate code detection
-      * How to GDB STL Container
       * memory leak for GeneralAPN
-      * some info for vSDM core
-      * thread apply all bt
       * How to check callgrind do profiling of your app
+      * How to check program was compiled with debug sym
       * Core Analyzer Home
       * 定位Unix常见问题
       * 32bit和64bit区别
-      * gdb vtable
-      * gdbplus
-      * cppcheck tool 2
-      * gdb stack
-      * Oprofile
-      * gdb print address
-      * gdb output formats
       * sizeof x32和x64
+      * cppcheck tool 2
+      * Oprofile
    5. BUSI
       * 有效使用邮件
       * 文印小技巧
@@ -48,18 +48,16 @@
       * 锁释放获取与volatile的内存语义
       * 重温迷宫算法栈的使用
       * dupliate code detection
-      * Advanced C++
+      * set_new_handler
+      * C++库与框架大全
       * C++资料大全
-      * C++资料大全2
       * STL 元素删除
       * 继承与多态
       * hash_map 与 hash_set 详解
       * hash_set
-      * c++资料大全3
-      * STL 迭代器失效
       * auto_ptr
       * Klockwork check classification
-      * linux 字节对其
+      * linux 字节对齐
       * Klock detail examples……
    7. Compile
       * gcc4.3.5-4
