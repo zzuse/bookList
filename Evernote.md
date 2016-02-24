@@ -19,7 +19,7 @@
       * Go1.5 新特性
       * Go语言开源库一览
    4. Tuning
-      * gdb
+      * __gdb__
          * How to GDB STL Container
          * some info for vSDM core
          * thread apply all bt
@@ -28,7 +28,7 @@
          * gdb stack
          * gdb print address
          * gdb output formats
-      * valgrind
+      * __valgrind__
       * oprofile usage on plat
       * cppcheck tool
       * dupliate code detection
@@ -45,19 +45,19 @@
       * 有效使用邮件
       * 文印小技巧
    6. C++
-      * 锁释放获取与volatile的内存语义
+      * __锁释放获取与volatile的内存语义__
       * 重温迷宫算法栈的使用
-      * dupliate code detection
+      * __dupliate code detection__
       * set_new_handler
       * C++库与框架大全
       * C++资料大全
-      * STL 元素删除
-      * 继承与多态
-      * hash_map 与 hash_set 详解
-      * hash_set
-      * auto_ptr
+      * __STL 元素删除__
+      * __继承与多态__
+      * __hash_map 与 hash_set 详解__
+      * __hash_set__
+      * __auto_ptr__
       * Klockwork check classification
-      * linux 字节对齐
+      * __linux 字节对齐__
       * Klock detail examples……
    7. Compile
       * gcc4.3.5-4
@@ -69,7 +69,7 @@
       * Interviewstreet 1-2
       * Opera Testing
    7. Editor
-      * VIM
+      * __VIM__
          * vim 列编辑
          * vim latin1
          * vim 尖括号
