@@ -19,29 +19,6 @@
 
 --------------------------------------------
 
-|知识学习的六大阶段|小工到专家的五大阶段                         |停止原因|
-| :---:            | :---:                                       |:--:    |
-|记忆              |                                             |        |
-|理解              |Novices need recipes.                        |没有热情|
-|应用              |Advanced beginners don't want the big picture|不重要  |
-|分析              |Competents can troubleshoot                  |不可控制|
-|评鉴              |Proficient practitioners can self-correct    |已经完成|
-|创造              |Experts work from intuition                  |        |
-
---------------------------------------------
-
-| 技术跟踪 | 技术方向    | 当前水平 | 目标水平	| 停止学习？| 停止原因？| 备注 |
-| -------  | :------:    | -------  | -------   | -------   | -------   | ---- |
-|          |golang       |    理解  | 分析      |
-|          | c++         |    分析  | 评鉴      |
-|          |designpattern|    记忆  | 应用      |
-|          | nodejs      |    理解  | 应用      |
-|          | leveldb     |    记忆  | 评鉴      |
-|          | tuning      |    理解  | 应用      |
-|          | ruby        |    记忆  | 应用      |
-
---------------------------------------------
-
 |阅读类型|书籍名                               |当前页数|目标页数|是否重读|已读次数|已总结|停止阅读？|备注|
 | :----: | :-:                                 | :----- | :--    | ---:   | :---   |---:  | ----     | -- |  
 |paper  |《Consistent Hashing and Random Tree》|0       |        |        |        |      |          |    |
@@ -74,5 +51,28 @@
 |       |《Memory In Programming》             |0       |  ~     |       -| 0      |      |          |    |
 |       |《Software Exception》                |0       |  ~     |       -| 0      |      |          |    |
 |       |《Software Performance tuning》       |0       |  ~     |       -| 0      |      |          |    |
+
+--------------------------------------------
+
+|知识学习的六大阶段|小工到专家的五大阶段                         |停止原因|
+| :---:            | :---:                                       |:--:    |
+|记忆              |                                             |        |
+|理解              |Novices need recipes.                        |没有热情|
+|应用              |Advanced beginners don't want the big picture|不重要  |
+|分析              |Competents can troubleshoot                  |不可控制|
+|评鉴              |Proficient practitioners can self-correct    |已经完成|
+|创造              |Experts work from intuition                  |        |
+
+--------------------------------------------
+
+| 技术跟踪 | 技术方向    | 当前水平 | 目标水平	| 停止学习？| 停止原因？| 备注 |
+| -------  | :------:    | -------  | -------   | -------   | -------   | ---- |
+|          |golang       |    理解  | 分析      |
+|          | c++         |    分析  | 评鉴      |
+|          |designpattern|    记忆  | 应用      |
+|          | nodejs      |    理解  | 应用      |
+|          | leveldb     |    记忆  | 评鉴      |
+|          | tuning      |    理解  | 应用      |
+|          | ruby        |    记忆  | 应用      |
 
 
